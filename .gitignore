@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Trained model artifacts
+models/*.pkl
+
+# Detailed generated outputs
+models/test_prediction_errors.csv
+submission.csv
+*.log
+
+# Secrets
+.env

@@ -1,0 +1,9 @@
+Metric,Value
+Dataset rows,80000
+Input features,16
+Training rows,64000
+Testing rows,16000
+Selected model,Tuned Random Forest
+Test MAE (lakhs),33.05
+Test RMSE (lakhs),68.99
+Test R2,0.785
